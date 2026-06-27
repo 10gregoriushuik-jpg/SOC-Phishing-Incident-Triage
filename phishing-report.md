@@ -32,6 +32,7 @@ Querying the sender IP (`198.51.100.45`) and spoofed domain across Cyber Threat 
 
 ### C. Malicious Link Analysis
 The email contains a call-to-action button "Verify Now" pointing to: `http://paypal-security-alert.com`.
+<img width="1080" height="2297" alt="1000082570" src="https://github.com/user-attachments/assets/d1f2a657-95c8-40eb-935c-ec29467cd343" />
 
 ---
 
@@ -48,4 +49,6 @@ The incident is determined to be a **True Positive** credential harvesting phish
 1. **Perimeter Blocking:** Add the domain `paypal-security-alert.com` and IP `198.51.100.45` to the corporate Email Gateway and Firewall blocklists.
 2. **Email Purging:** Run an indicator search across the entire email tenant and purge identical emails from all user mailboxes to mitigate further risk.
 3. **User Awareness:** Recommend targeted Security Awareness Training for the affected department regarding look-alike domains.
+## 📄 Appendix: Training Verification
+<img width="1080" height="2339" alt="1000082556" src="https://github.com/user-attachments/assets/a9c0ead3-4419-4bbc-a723-78d6a7aa16d3" />
 
