@@ -21,3 +21,4 @@ The web application "Juicy Shop" suffered a security breach. This report documen
 2. Restrict file system permissions so the web server process cannot read sensitive system configuration files.
 3. Deploy a Web Application Firewall (WAF) to block automated scanning and exploitation attempts.
 
+<img width="1080" height="2333" alt="Screenshot_20260628_010754_Chrome" src="https://github.com/user-attachments/assets/8482b232-74a7-4025-9ca0-c0121b3d6378" />
