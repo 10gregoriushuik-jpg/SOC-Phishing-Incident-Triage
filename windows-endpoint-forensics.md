@@ -22,3 +22,4 @@ A Windows workstation was compromised by an unknown threat actor. This investiga
 2. Purge the malicious registry entries and scheduled tasks.
 3. Implement strict Least Privilege access controls and enable enhanced endpoint logging (Sysmon).
 
+<img width="1080" height="2341" alt="1000082580" src="https://github.com/user-attachments/assets/39c96bfe-e3bc-4682-b58f-27a283e509ad" />
